@@ -1,4 +1,4 @@
-## hello, i'm iris
+## i'm iris
 Master's Student studying Data science at the University of Barcelona
 
 I'm currently working on my master's thesis on fairness-aware machine learning models in healthcare on the MIMIC-IV dataset.
