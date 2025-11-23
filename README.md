@@ -7,7 +7,7 @@ I'm interested in how data science can improve and provide support in fields lik
 
 On my GitHub page, I have projects from my coursework at UB as well as some personal projects.
 
-Core interests & tools:
+Core tools:
 - Python, Pandas, NumPy, Scikit-learn
 - Machine Learning & Data Analysis
 - Fairness in AI & Responsible AI
